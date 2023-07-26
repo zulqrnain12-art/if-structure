@@ -1,2 +1,2 @@
-# if-structure
+# Python Language
 Basic python course
